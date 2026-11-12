@@ -3,7 +3,7 @@ import "pe"
 rule find_packed_files
 {					
 	meta:
-		author = "Saulo 'Sal' Ortiz, Sr. Cyber Forensics Analyst, ATG"
+		author = "ortizimo, Sr. Cyber ForensicsAnalyst"
 		description = "Simple rule to find packed files"
     		reference: "https://github.com/ortizimo/find_files_packed.yar/blob/main/code"
 		date = "2022-03-24"
